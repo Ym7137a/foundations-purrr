@@ -1,7 +1,7 @@
 ---
-title: "Your Name"
+title: "Vectors/Iterators Lab"
 date: "`r Sys.Date()`"
-author: "David Gerard"
+author: "Your Name"
 output: pdf_document
 urlcolor: "blue"
 params: 
